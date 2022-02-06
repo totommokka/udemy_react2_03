@@ -3,6 +3,7 @@ import { BrowserRouter, Link, Routes, Route, Routers } from "react-router-dom";
 import { Home } from "./Home";
 import { Page1 } from "./Page1";
 import { Page2 } from "./Page2";
+import { Page1DetailA } from "./Page1DetailA";
 import "./styles.css";
 
 export default function App() {
